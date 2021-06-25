@@ -36,7 +36,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Had some trouble debugging the APIs portion, but StackOverflow came to the rescue.
+Had some trouble debugging the APIs portion.
 
 ## Open-source libraries used
 
