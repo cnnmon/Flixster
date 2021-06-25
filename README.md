@@ -24,9 +24,9 @@ The following **stretch** features are implemented:
 
 The following **additional** features are implemented:
 
-* [X] Researched and implemented "secret" API keys within BuildConfig
-* [X] Featuring date of release in details
-* [X] Responsive details layout
+* [X] Research and implement "secret" API keys within BuildConfig
+* [X] Feature date of release in details
+* [X] Implement a responsive layout for the movie details screen
 
 ## Video Walkthrough
 
