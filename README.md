@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/hC5riql.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://submissions.us-east-1.linodeobjects.com/android_university_fast_track/LwSpj4mI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
